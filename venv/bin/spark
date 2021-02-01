@@ -1,3 +1,0 @@
-#!/home/philipp/Projects/Umfrage/venv/bin/python
-from spark import spark_admin
-spark_admin.main()
